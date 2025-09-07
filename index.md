@@ -2,3 +2,7 @@
 ## This is an H2 header
 
 ![Image of some kind of cat](https://octodex.github.com/images/yaktocat.png)
+
+``` Python
+text = Hello world!
+```
